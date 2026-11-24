@@ -22,9 +22,9 @@ from telebot import TeleBot, types
 # ============================================================
 # ⚙️ CONFIGURATION - EDIT THESE VALUES
 # ============================================================
-BOT_TOKEN = "8532779481:AAHNRizSkn68YOaNnhkNDxlL7f4xkPGPMY8"       # Get from @BotFather
-ADMIN_ID = 8033024853                    # Your Telegram ID (get from @userinfobot)
-BOT_USERNAME = "Tokenkillerbot"        # Without @, e.g., "BotBanProBot"
+BOT_TOKEN = "9089046350:AAFn2kycWAh6grMMErD0uVrjiIWaXiBLN9A"       # Get from @BotFather
+ADMIN_ID = 9286043112                    # Your Telegram ID (get from @userinfobot)
+BOT_USERNAME = "Shami_mohd_bot"        # Without @, e.g., "BotBanProBot"
 BANNED_BOT_IMAGE_URL = "https://i.ibb.co/wF29FM3W/3340.png"  # DP for banned bots
 
 # ============================================================
